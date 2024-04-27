@@ -19,3 +19,4 @@
  // object
 
  console.log(typeof "anand")
+ console.log(age)
