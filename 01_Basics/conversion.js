@@ -11,3 +11,11 @@ let booleanIsLoggedIn = Boolean(IsLoggedIn)
 console.log(booleanIsLoggedIn)
 console.log(typeof booleanIsLoggedIn)
 
+
+// string to number
+let name = "Anand"
+let numberName = Number(name)
+console.log(numberName)
+console.log(typeof numberName)
+
+
